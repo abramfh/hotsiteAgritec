@@ -1,0 +1,62 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Verdana';
+}
+
+header{
+    height: 80px;
+    background: #333;
+}
+footer{
+    height: 80px;
+    background: #333;
+    margin-top: 50px
+}
+section{
+    width: 80%;
+    margin: 0 auto;
+}
+.content{
+    width: 80%;
+    margin: 0 auto;
+}    
+.logo{
+    width:50px;
+}
+#banner img{
+    width: 100%;
+}
+#produtos{
+    text-align: center;
+}
+#produtos div{
+    border: solid 2px #ddd;
+    border-radius: 3px;
+    overflow: hidden;
+    width: 31%;
+    margin: 10px;
+    height: 100px;
+    display:inline-block;
+
+}
+.fone{
+    float: right;
+    font-size: 20px;
+    font-weight: bold;
+    color: #eee;
+    margin: 27px;
+}
+.fone-footer{
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+    color: #eee;
+    margin: 27px;
+}
+.endereco{
+    color: #eee;
+    font-size: 12px;
+    margin: 27px;
+    float: right;
+}
